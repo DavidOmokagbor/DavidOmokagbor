@@ -17,4 +17,4 @@ def get_user_info():
     print("Thanks for using our program. Have a wonderful day! 🌟")
 
 if __name__ == "__main__":
-    get_user_info() 
+    get_user_info()
